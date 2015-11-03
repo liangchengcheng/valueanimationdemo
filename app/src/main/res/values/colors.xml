@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <color name="primary">#03A9F4</color>
+  <color name="orange">#fffaaa00</color>
+  <color name="material_red_300">#E57373</color>
+  <color name="material_deep_purple_200">#B39DDB</color>
+  <color name="material_red_500">#F44336</color>
+  <color name="material_deep_purple_500">#673AB7</color>
+  <color name="theme_accent">#FF4081</color>
+
+  <color name="style_color_primary">#2d5d82</color>
+  <color name="style_color_primary_dark">#21425d</color>
+  <color name="style_color_accent">#01bcd5</color>
+
+  <color name="colorPrimary">@color/material_blue_grey_800</color>
+  <color name="colorPrimaryDark">@color/material_blue_grey_900</color>
+
+  <color name="colorSecondary">@color/material_deep_teal_200</color>
+  <color name="colorSecondaryDark">@color/material_deep_teal_500</color>
+
+  <color name="windowBackgroundColor">#333333</color>
+  <color name="black_translucent">#80000000</color>
+
+</resources>
